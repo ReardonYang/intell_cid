@@ -29,7 +29,7 @@
   background-color:rgba(10, 22, 40, 1);
   box-sizing:border-box;
   border-width:1px;
-  border-style:solid;
+  border-style:dashed;
   border-color:rgba(13, 158, 255, 1);
   border-radius:0px;
   -moz-box-shadow:none;
@@ -4585,7 +4585,7 @@
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
   border-width:1px;
-  border-style:solid;
+  border-style:dashed;
   border-color:rgba(13, 158, 255, 1);
   border-radius:0px;
   -moz-box-shadow:none;
